@@ -1,0 +1,17 @@
+{
+  "name": "asyncawaitpromisecallback",
+  "version": "1.0.0",
+  "description": "Basics of Async Await Promise and Callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Async",
+    "Await",
+    "Promise",
+    "Callback"
+  ],
+  "author": "Yajnesh A P",
+  "license": "ISC"
+}
